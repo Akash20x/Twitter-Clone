@@ -27,7 +27,7 @@ Deployed in: https://akash-twitter-clone.netlify.app/
 - Axios
 - Web Vitals
 - Nodejs
-- Express
+- ExpressJS
 - MongoDB
 - JSON Web Token
 - Bcrypt
