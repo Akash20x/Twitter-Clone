@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family:'Helvetica', 'Courier New', Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  color: white;
+  overflow-y: scroll;
+}
+

@@ -1,0 +1,33 @@
+.button {
+    border-radius: inherit;
+    width: inherit;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(29, 155, 240);
+    border: none;
+    padding: inherit;
+}
+
+.button:hover {
+    background-color: #2f7bdf;
+}
+
+.button:disabled {
+    background-color: #0b3874;
+    color: rgb(106, 98, 98)
+}
+
+.button:active {
+    animation: bigsmall .5s;
+}
+
+@keyframes bigsmall {
+    from {
+        transform: scale(110%);
+    }
+    to {
+        transform: scale(100%);
+    }
+    
+}

@@ -1,0 +1,19 @@
+.new-chirp {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    max-width: 100%;
+    padding: 1rem;
+}
+
+.new-chirp__icon {
+    display: inline-block;
+    min-height: 50px;
+    min-width: 50px;
+    max-height: 50px;
+    max-width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+}
+
+
