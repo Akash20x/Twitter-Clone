@@ -7,7 +7,7 @@
 
 
 ### Brief Summary
-Twitter Clone is a full-stack social media web application similar to the popular website [Twitter](https://twitter.com/) created using React in the FrontEnd and Firebase to handle the Database, Authentication & Security. 
+Twitter Clone is a full-stack social media web application similar to the popular website [Twitter](https://twitter.com/) created using React in the FrontEnd and ExpressJs, MongoDB to handle the Database, Authentication & API requests. 
 
 Deployed in: https://akash-twitter-clone.netlify.app/
 
