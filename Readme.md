@@ -13,7 +13,7 @@ Deployed in: https://akash-twitter-clone.netlify.app/
 
 ### Preview
 
-<img src="https://user-images.githubusercontent.com/46225357/166117864-611b6494-94af-4049-bff1-03a1f6bebe37.png" height="400" />
+<img src="https://user-images.githubusercontent.com/46225357/166117864-611b6494-94af-4049-bff1-03a1f6bebe37.png"/>
 
 ### 🏆 Specifications
 
